@@ -20,12 +20,12 @@
 
 <!-- ![Jinesh's Github Stats](https://github-readme-stats.vercel.app/api?username=jinesh0109&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinesh0109&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=224,255,255" alt="Jinesh's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinesh0109&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=255,255,255" alt="Jinesh's Github Stats">
 
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinesh0109&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jinesh0109/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinesh0109&layout=compact&text_color=daf7dc&bg_color=255)](https://github.com/jinesh0109/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
