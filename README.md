@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript 
+- 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript | React | Django
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio code | Git
 
