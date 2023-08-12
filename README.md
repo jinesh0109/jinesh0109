@@ -4,16 +4,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning and exploring Web Developement
-- 🎓 &nbsp; Studying Computer Science and Engineering 
-- 💼 &nbsp; Competitive Programmer and front-end web developer.
+- 🔭 &nbsp; I’m currently SDE Intern @Netmeds.com
+- 🎓 &nbsp; Fullstack developer and Competitive Programmer  
+- 💼 &nbsp; ACM ICPC Regionalist'22
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | HTML | CSS | JavaScript | React | Django
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | React | Node.js | Express.js | Angular
+- 🛢 &nbsp; MySQL | Derby
+- 🔧 &nbsp; Visual Studio code | Git | Github
 
 
 <br>
