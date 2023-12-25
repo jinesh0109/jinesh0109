@@ -4,16 +4,16 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently SDE Intern @Netmeds.com
+- 🔭 &nbsp; I’m currently Fullstack Developer Intern @Quicko
 - 🎓 &nbsp; Fullstack developer and Competitive Programmer  
 - 💼 &nbsp; ACM ICPC Regionalist'22
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | React | Node.js | Express.js | Angular
-- 🛢 &nbsp; MySQL | Derby
-- 🔧 &nbsp; Visual Studio code | Git | Github
+- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | React | Node.js | Express.js | Angular | Typescript
+- 🛢 &nbsp; MySQL | DynamoDB
+- 🔧 &nbsp; Visual Studio code | Git | Github | Jenkins | AWS
 
 
 <br>
