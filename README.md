@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Fullstack Developer Intern @Quicko
+- 🔭 &nbsp; I’m currently Fullstack Developer @Quicko
 - 🎓 &nbsp; Fullstack developer and Competitive Programmer  
 - 💼 &nbsp; ACM ICPC Regionalist'22
 
