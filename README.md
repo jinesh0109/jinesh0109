@@ -6,14 +6,14 @@
 
 - 🔭 &nbsp; I’m currently Fullstack Developer @Quicko
 - 🎓 &nbsp; Fullstack developer and Competitive Programmer  
-- 💼 &nbsp; ACM ICPC Regionalist'22
+- 💼 &nbsp; ACM ICPC Regionalist
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | HTML | CSS | JavaScript | React | Node.js | Express.js | Angular | Typescript
-- 🛢 &nbsp; MySQL | DynamoDB
-- 🔧 &nbsp; Visual Studio code | Git | Github | Jenkins | AWS
+- 💻 &nbsp; Angular | Typescript | Node.js | AWS | React | Javascript | Tailwind CSS
+- 🛢 &nbsp; MySQL | DynamoDB | Opensearch | Elasticsearch
+- 🔧 &nbsp; Visual Studio code | Git | Github | Jenkins
 
 
 <br>
